@@ -1,10 +1,10 @@
-# 🚀 Welcome to **VEx Design** 🔭
+# Welcome to **VEx Design** 🔭
 
 **Virtual Experiment Design (VEx Design)** is an advanced software solution for designing and simulating laser systems in quantum research. It streamlines the process of laser equipment layout, reduces computational overhead, and provides systematic organization. By simulating experiments in a virtual environment, researchers can save time and resources while ensuring precision before real-world implementation.
 
 ---
 
-## 🔥 Key Features
+## Key Features
 
 ✅ **Efficient Laser System Design** – Streamline the arrangement and setup of laser components.
 ✅ **Virtual Experimentation** – Simulate real-world setups without the high costs and risks.
@@ -14,13 +14,13 @@
 
 ---
 
-## 🏗️ Software Architecture
+## Software Architecture
 
 ![Software Architecture](https://raw.githubusercontent.com/VEx-Design/.github/main/profile/SoftwareArchitecture.png)
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 ### 🔹 Prerequisites
 - Install **Docker Desktop**
@@ -41,17 +41,17 @@ Once the setup is complete, open your browser and visit:
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License**.
 
 ---
 
-## 👥 Contributing
+## Contributing
 We welcome contributions! Feel free to submit issues, suggestions, or pull requests to help improve **VEx Design**.
 
 ---
 
-## 📫 Contact
+## Contact
 For inquiries, reach out to us at: [vexdesign492@gmail.com]
 
 🚀 Happy Experimenting! 🎯
