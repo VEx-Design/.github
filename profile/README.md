@@ -1,5 +1,5 @@
-# Welcome to [Your Organization Name] 👋
+# Welcome to VEx Design 👋
 
-![Organization Logo](https://raw.githubusercontent.com/your-org-name/your-repo/main/path-to-your-image.png)
+![Software Architecture](https://raw.githubusercontent.com/VEx-Design/.github/edit/main/profile/SoftwareArchitecture.png)
 
 🚀 We build awesome projects!
