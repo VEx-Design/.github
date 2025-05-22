@@ -16,6 +16,11 @@
 
 ![Software Architecture](https://raw.githubusercontent.com/VEx-Design/.github/main/profile/SoftwareArchitecture.png)
 
+# Additional Resources
+
+- [Presentation (Canva)](https://www.canva.com/design/DAGoIZKgKvU/i4FQc0PJ2zxKWfdfjZtaMw/edit?utm_content=DAGoIZKgKvU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- [Poster (Google Drive)](https://drive.google.com/file/d/1EdVch3lhKbjdlbl6Oz1bY-suUagg3Wbn/view?usp=sharing)
+
 
 ## Getting Started
 
